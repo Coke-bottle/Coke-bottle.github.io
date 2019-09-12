@@ -39,7 +39,7 @@ _斜体_
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coke-bottle/Coke-bottle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+页面站点将使用存储库设置 [repository settings](https://github.com/Coke-bottle/Coke-bottle.github.io/settings). 中选择的Jekyll主题的布局和样式，主题的名称保存在 `_config.yml` 配置文件中
 
 ### 支持或练习
 
