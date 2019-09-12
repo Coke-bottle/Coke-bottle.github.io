@@ -10,20 +10,16 @@ _这是我的母校_
 ![alt 南京晓庄学院](http://pic.baike.soso.com/p/20140211/20140211143428-1193505128.jpg)
 
 
-You can use the [editor on GitHub](https://github.com/Coke-bottle/Coke-bottle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你可以使用Github编辑器 [editor on GitHub](https://github.com/Coke-bottle/Coke-bottle.github.io/edit/master/index.md)在标记文件中维护和预览网站内容
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当你提交到此存储库时，github页面将运行 [Jekyll](https://jekyllrb.com/) 以从标记文件中的内容重建站点中的页面
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 是一种轻量级且易于使用的语法，用于设置写作样式。它包括
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+语法突出显示的代码块
 
 - Bulleted
 - List
@@ -31,17 +27,20 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**粗体** 
+_斜体_ 
+`代码文本` 
 
-[Link](url) and ![Image](src)
+[Link](url)链接写法 
+![Image](src)图片插入
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有关更多详细信息，请参阅[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coke-bottle/Coke-bottle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 支持或练习
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+页面有问题吗? 查看文档 [documentation](https://help.github.com/categories/github-pages-basics/)或联系支持[contact support](https://github.com/contact) 我们将帮助您解决问题
